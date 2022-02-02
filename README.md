@@ -2,6 +2,7 @@
 front-end adaptado del open source azuraCast
 <!-- Front -->
 // Portadas cliente version 1
+
 ![image](https://user-images.githubusercontent.com/97848707/151695499-1cd74615-6785-4334-a162-0a206710b46c.png)
 
 
